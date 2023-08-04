@@ -14,7 +14,7 @@ const senhaDoBanco = (req,res,next)=>{
     next()
 };
 
-
+//alterar
 
 module.exports = {
     senhaDoBanco,
